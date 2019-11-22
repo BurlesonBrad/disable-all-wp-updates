@@ -348,19 +348,19 @@ class Disable_All_WP_Updates {
 			),
 			array(
 				'host' => 'api.genesistheme.com'
-			)
+			),
 			array(
 				'host' => 'planet.wordpress.org'
-			)
+			),
 			array(
 				'host' => 'api.freemius.com'
-			)
+			),
 			array(
 				'host' => 'api.awesomemotive.com'
-			)
+			),
 			array(
 				'host' => 'soliloquywp.com'
-			)
+			),
 			array(
 				'host' => 'crmperks.com'
 			)
