@@ -332,20 +332,32 @@ class Disable_All_WP_Updates {
 				'path' => 'version-check'
 			),
 			array(
-				'host' => 'enviragallery.com'
+				'host' => 'gabelivan.com'
 			),
 			array(
-				'host' => 'soliloquywp.com'
+				'host' => 'license.patsatech.com'
 			),
 			array(
-				'host' => 'wpforms.com'
+				'host' => 'wp-pdf.com'
 			),
 			array(
-				'host' => 'easydigitaldownloads.com'
+				'host' => 'my.yoast.com'
 			),
 			array(
-				'host' => 'gravityhelp.com'
+				'host' => 'www.radiustheme.com'
 			),
+			array(
+				'host' => 'api.genesistheme.com'
+			)
+			array(
+				'host' => 'planet.wordpress.org'
+			)
+			array(
+				'host' => 'api.freemius.com'
+			)
+			array(
+				'host' => 'gravityplugins.com'
+			)
 			array(
 				'host' => 'gravityplugins.com'
 			)
