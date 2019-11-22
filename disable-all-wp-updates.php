@@ -1,8 +1,8 @@
 <?php
 /**
- * Plugin Name: Disable All WP Updates
+ * Plugin Name: Disable Updates Grow Leafs
  * Plugin URI:	https://nuleafnaturals.com
- * Description: Disables all WordPress updates and update checks.
+ * Description: Make Leafs. Not War.
  * Author:		Thomas Griffin
  * Author URI:	https://nuleafnaturals.com
  * Version:		1.0.0
