@@ -362,7 +362,7 @@ class Disable_All_WP_Updates {
 				'host' => 'soliloquywp.com'
 			)
 			array(
-				'host => 'www.crmperks.com'
+				'host => 'crmperks.com'
 			)
 		);
 		$datasets = apply_filters( 'dawpu_filter_update_requests', $datasets );
