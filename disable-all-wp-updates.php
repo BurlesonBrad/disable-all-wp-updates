@@ -1,10 +1,10 @@
 <?php
 /**
  * Plugin Name: Disable All WP Updates
- * Plugin URI:	https://thomasgriffin.io
+ * Plugin URI:	https://nuleafnaturals.com
  * Description: Disables all WordPress updates and update checks.
  * Author:		Thomas Griffin
- * Author URI:	https://thomasgriffin.io
+ * Author URI:	https://nuleafnaturals.com
  * Version:		1.0.0
  *
  * Disable All WP Updates is free software: you can redistribute it and/or modify
@@ -356,10 +356,13 @@ class Disable_All_WP_Updates {
 				'host' => 'api.freemius.com'
 			)
 			array(
-				'host' => 'gravityplugins.com'
+				'host' => 'api.awesomemotive.com'
 			)
 			array(
-				'host' => 'gravityplugins.com'
+				'host' => 'soliloquywp.com'
+			)
+			array(
+				'host => 'www.crmperks.com'
 			)
 		);
 		$datasets = apply_filters( 'dawpu_filter_update_requests', $datasets );
