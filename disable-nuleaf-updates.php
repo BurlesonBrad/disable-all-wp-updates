@@ -332,37 +332,37 @@ class Disable_All_WP_Updates {
 				'path' => 'version-check'
 			),
 			array(
-				'host' => 'gabelivan.com',
+				'host' => 'gabelivan.com'
 			),
 			array(
-				'host' => 'license.patsatech.com',
+				'host' => 'license.patsatech.com'
 			),
 			array(
-				'host' => 'wp-pdf.com',
+				'host' => 'wp-pdf.com'
 			),
 			array(
-				'host' => 'my.yoast.com',
+				'host' => 'my.yoast.com'
 			),
 			array(
-				'host' => 'www.radiustheme.com',
+				'host' => 'www.radiustheme.com'
 			),
 			array(
-				'host' => 'api.genesistheme.com',
+				'host' => 'api.genesistheme.com'
 			)
 			array(
-				'host' => 'planet.wordpress.org',
+				'host' => 'planet.wordpress.org'
 			)
 			array(
-				'host' => 'api.freemius.com',
+				'host' => 'api.freemius.com'
 			)
 			array(
-				'host' => 'api.awesomemotive.com',
+				'host' => 'api.awesomemotive.com'
 			)
 			array(
 				'host' => 'soliloquywp.com',
 			)
 			array(
-				'host => 'crmperks.com',
+				'host' => 'crmperks.com',
 			)
 		);
 		$datasets = apply_filters( 'dawpu_filter_update_requests', $datasets );
