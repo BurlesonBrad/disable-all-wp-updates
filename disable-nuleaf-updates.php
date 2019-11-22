@@ -359,10 +359,10 @@ class Disable_All_WP_Updates {
 				'host' => 'api.awesomemotive.com'
 			)
 			array(
-				'host' => 'soliloquywp.com',
+				'host' => 'soliloquywp.com'
 			)
 			array(
-				'host' => 'crmperks.com',
+				'host' => 'crmperks.com'
 			)
 		);
 		$datasets = apply_filters( 'dawpu_filter_update_requests', $datasets );
